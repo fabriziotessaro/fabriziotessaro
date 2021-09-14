@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**fabriziotessaro/fabriziotessaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm [Fabrizio Tessaro]
+> FullStack Web Developer
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabrizio-tessaro/)](https://www.linkedin.com/in/fabrizio-tessaro/)
+[![](https://img.shields.io/badge/Gmail-fabriziotessaro02%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const Fabrizio = {
+    code: ["Javascript"],
+    askMeAbout: ["web_dev", "tech", "app_dev"],
+    technologies: {
+       frontEnd: {
+            js: ["reactJS", "redux"],
+        },
+       backEnd: {
+            js: ["nodeJS", "express", "sequelize", "mongoose"],
+        },
+        databases: ["mongoDB", "MySql", "sqlite"],
+        misc: ["auth0", "Socket.IO"]
+    },
+    architecture: ["microservices", "event-driven"],
+    funFact: "Debugging: [di:b^g-ing] \n 1. Being the detective in a crime movie where you are also the murderer"
+};
+```
+
+
+⭐️ From [@fabriziotessaro](https://github.com/fabriziotessaro)
