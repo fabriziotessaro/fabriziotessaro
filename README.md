@@ -19,7 +19,6 @@ const Fabrizio = {
         databases: ["mongoDB", "MySql", "sqlite"],
         misc: ["auth0", "Socket.IO"]
     },
-    architecture: ["microservices", "event-driven"],
     funFact: "Debugging: [di:b^g-ing] \n 1. Being the detective in a crime movie where you are also the murderer"
 };
 ```
