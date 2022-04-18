@@ -2,9 +2,9 @@
 <h1 align="center">Hey, I'm Fabrizio</h1>
 <h3 align="center">A fullstack developer from Argentina.</h3>
 
-- 🔭 I’m currently working on [Scrum.io](https://github.com/SHIMER-jpg/PROYECTO-GRUPAL)
+- 🔭 I’m currently working in **Mercado Libre**.
 
-- 🌱 I’m currently learning **TypeScript & Socket.io**
+- 🌱 I’m currently learning **JAVA**
 
 - 👨‍💻 All of my projects are available on [my GitHub profile](https://github.com/fabriziotessaro?tab=repositories)
 - 💬 Ask me about **ReactJS, NodeJS, HTML, CSS**.
