@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 All of my projects are available on [my GitHub profile](https://github.com/fabriziotessaro?tab=repositories)
+- 👨‍💻 All of my personal projects are available on [my GitHub profile](https://github.com/fabriziotessaro?tab=repositories)
+- The rest of the projects where I'm working are private, these're in my github profile of **Mercado Libre**.
 - 💬 Ask me about **ReactJS, NodeJS, HTML, CSS**.
 
 - 📫 How to reach me:
